@@ -25,7 +25,7 @@ O plugin faz uma requisição HTTP para a API fornecida e exibe as informações
 ### Exemplo de Saída:
 ```html
 <div class="mega-sena-results">
-    <h3>Resultado do Sorteio #2829</h3>
+    <h3>Resultado do Sorteio 2829</h3>
     <p><strong>Data:</strong> 2025-02-15</p>
     <p><strong>Números Sorteados:</strong> 13 22 38 46 51 56</p>
 </div>
@@ -41,3 +41,6 @@ Este plugin é distribuído sob a licença GPL-2.0 ou superior.
 
 ## Autor
 Desenvolvido por **Andrey Rocha** - [andreyrocha.dev](https://andreyrocha.dev)
+
+## Atalho para zipar
+zip resultados-da-megasena.zip index.php readme.txt resultados-da-megasena.php
